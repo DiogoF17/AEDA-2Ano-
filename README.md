@@ -10,12 +10,22 @@ Nota 2ºTeste:
 
   Teórica: 13.1
   
-  Prática:
+  Prática: 19.5
 
 Nota 3ºTeste:
 
-  Teórica:
+  Teórica: 13.4
   
-  Prática:
+  Prática: 20
   
-Nota Projeto(Gestão de Condominios): 
+Média Teóricas: 13.9
+
+Média Práticas: 19.8
+  
+Nota Projeto(Gestão de Condominios)(Parte 1): 16.1
+
+Nota Projeto(Gestão de Condominios)(Parte 2): 16.1
+
+Média Projeto: 16.1
+
+Nota Final: 17
